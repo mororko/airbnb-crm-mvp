@@ -75,3 +75,14 @@
 - [ ] iCal sync
 - [ ] Multiusuario
 - [ ] Roles y permisos
+
+
+## Fase DevOps
+
+- [ ] Subir proyecto a GitHub
+- [ ] Crear `.gitignore`
+- [ ] Crear GitHub Actions CI
+- [ ] Validar build de API
+- [ ] Validar build de frontend
+- [ ] Publicar demo gratis en Render
+- [ ] Preparar despliegue futuro en VPS
